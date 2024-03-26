@@ -12,6 +12,15 @@ Drawing from all these experiences (community management, social media managemen
 
 Faced with recurring client challenges, I decided to pursue training in web and mobile development to explore new horizons, and it has now become my profession.
 
+<p align='center'>
+  <a href="https://github-readme-stats.vercel.app/api?username=tbiarneix&show_icons=true&count_private=true"><img
+    height=150
+    src="https://github-readme-stats.vercel.app/api?username=tbiarneix&show_icons=true&count_private=true"/></a>
+  <a href="https://github.com/romankh3/github-readme-stats"><img
+    height=150
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+</p>
+
 <!--
 **Tbiarneix/tbiarneix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
