@@ -24,7 +24,7 @@ Faced with recurring client challenges, I decided to pursue training in web and 
 <p align='center'>
   <a href="https://www.linkedin.com/in/tbiarneix/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>>
+  </a>
 </p>
 
 <!--
