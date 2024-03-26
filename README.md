@@ -5,6 +5,7 @@ I am a JavaScript developer, I am fortunate to work daily on multiple projects. 
 Currently, I'm working at Sogeti, part of Capgemini as Frontend engineer and working on several projects.
 
 More about my background :
+
 After nearly 10 years working in public digital communication, initially through a communication agency, then directly within the city of Toulouse, and later within the Haute-Garonne department, I spent two years as an independent digital communication consultant.
 
 Drawing from all these experiences (community management, social media management, digital project management), I have developed various aspects of marketing: digital identity, digital communication strategy, photo and video creation, website development, and training.
