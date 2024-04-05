@@ -9,7 +9,7 @@ Currently, I'm working at Sogeti, part of Capgemini as Frontend engineer, workin
     <img height=150 src="https://github-readme-stats.vercel.app/api?username=tbiarneix&show_icons=true&count_private=true"/>
   </a>
   <a href="https://github.com/romankh3/github-readme-stats">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/>
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbiarneix&layout=compact"/>
   </a>
 </p>
 
